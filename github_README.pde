@@ -12,9 +12,9 @@ void setup() {
   fill(0);
 
   strs[0][0] = "Hi there!";
-  strs[0][1] = "My name is Andre Pradana.";
+  strs[0][1] = "My name is Emal Nathanael";
 
-  strs[1][0] = "Just call me Dre!";
+  strs[1][0] = "Just call me emaL!";
   strs[1][1] = "I like everything about Japan, especially manga and anime.";
 
   strs[2][0] = "Actually I like it because of design.";
@@ -24,7 +24,7 @@ void setup() {
   strs[3][1] = "Currently focus learn about Java, Python, JavaScript, PHP, HTML & CSS.";
 
   strs[5][0] = "Feel free to reach out to say hi!";
-  strs[5][1] = "email: mbandu.ilik@gmail.com";
+  strs[5][1] = "email: emal@photographer.net";
 }
 
 int i = 0;
