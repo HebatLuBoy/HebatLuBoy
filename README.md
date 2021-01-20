@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github.com/HebatLuBoy/HebatLuBoy/blob/main/assets/typewriter.gif" width=640>
-<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/activity.gif" width=640>
+<img src="https://github.com/HebatLuBoy/HebatLuBoy/blob/main/assets/activity.gif" width=640>
 </p>
 
 <p align="center">
@@ -20,17 +20,17 @@
 <a href="https://www.nintendo.com"><img src="https://img.shields.io/badge/Nintendo Switch-e60012.svg?&style=for-the-badge&logo=nintendo-switch&logoColor=ffffff" height=24></a>
 
 <p align="center">
-<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/line.gif" width=640>
+<img src="https://github.com/HebatLuBoy/HebatLuBoy/blob/main/assets/line.gif" width=640>
 </p>
 
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&cover_image=true&theme=novatorem" width=640></a>
-<a href="https://github.com/HebatLuBoy"><img src="https://github-readme-stats.vercel.app/api?username=hellterhead&show_icons=true&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&icon_color=00ccff&bg_color=00000000" width=640></a>
+<a href="https://github.com/HebatLuBoy"><img src="https://github-readme-stats.vercel.app/api?username=HebatLuBoy&show_icons=true&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&icon_color=00ccff&bg_color=00000000" width=640></a>
 <a href="https://github.com/HebatLuBoy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&bg_color=00000000" width=640></a>
 </p>
 
 <p align="center">
-<img src="https://github.com/hellterhead/hellterhead/blob/main/assets/line.gif" width=640>
+<img src="https://github.com/HebatLuBoy/HebatLuBoy/blob/main/assets/line.gif" width=640>
 </p>
 
 <p align="center">
