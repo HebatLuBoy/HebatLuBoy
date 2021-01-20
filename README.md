@@ -34,5 +34,5 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/hellterhead"><img src="https://badges.pufler.dev/visits/hellterhead/hellterhead?style=social&logo=github"></a>
+<a href="https://github.com/HebatLuBoy"><img src="https://badges.pufler.dev/visits/hellterhead/hellterhead?style=social&logo=github"></a>
 </p>
