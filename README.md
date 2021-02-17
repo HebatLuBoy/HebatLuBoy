@@ -25,17 +25,17 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/emaaaal/HebatLuBoy/blob/main/assets/line.gif" width=640>
+<img src="https://github.com/emaaaal/emaaaal/blob/main/assets/line.gif" width=640>
 </p>
 
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mo.banzu&cover_image=true&theme=novatorem" width=640></a>
-<a href="https://github.com/emaaaal"><img src="https://github-readme-stats.vercel.app/api?username=HebatLuBoy&show_icons=true&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&icon_color=00ccff&bg_color=00000000" width=640></a>
-<a href="https://github.com/HebatLuBoy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellterhead&layout=compact&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&bg_color=00000000" width=640></a>
+<a href="https://github.com/emaaaal"><img src="https://github-readme-stats.vercel.app/api?username=emaaaal&show_icons=true&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&icon_color=00ccff&bg_color=00000000" width=640></a>
+<a href="https://github.com/emaaaal"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emaaaal&layout=compact&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&bg_color=00000000" width=640></a>
 </p>
 
 <p align="center">
-<img src="https://github.com/emaaaal/HebatLuBoy/blob/main/assets/line.gif" width=640>
+<img src="https://github.com/emaaaal/emaaaal/blob/main/assets/line.gif" width=640>
 </p>
 
 <p align="center">
