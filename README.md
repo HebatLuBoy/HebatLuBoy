@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-<a href="https://line.me/ti/p/~gakmakeline_"><img src="https://img.shields.io/badge/LINE-00c300.svg?&style=for-the-badge&logo=line&logoColor=ffffff" height=24></a>
+<a href="https://line.me/ti/p/~gakpakeline_"><img src="https://img.shields.io/badge/LINE-00c300.svg?&style=for-the-badge&logo=line&logoColor=ffffff" height=24></a>
 <a href="https://www.webtoons.com"><img src="https://img.shields.io/badge/LINE WEBTOON-00d564.svg?&style=for-the-badge&logo=line-webtoon&logoColor=ffffff" height=24></a>
-<a href="https://instagram.com/emaal_"><img src="https://img.shields.io/badge/Instagram-e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=ffffff" height=24></a>
+<a href="https://instagram.com/hebatluboy"><img src="https://img.shields.io/badge/Instagram-e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=ffffff" height=24></a>
 <a href="https://twitter.com/HebatLuBoy"><img src="https://img.shields.io/badge/Twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=ffffff" height=24></a>
 <a href="https://www.youtube.com/channel/UCj1LkbYGL22-9BHReDHS7Rg?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=ffffff" height=24></a>
 <a href="mailto:emal@photographer.net"><img src="https://img.shields.io/badge/Gmail-d14836.svg?&style=for-the-badge&logo=gmail&logoColor=ffffff" height=24></a>
